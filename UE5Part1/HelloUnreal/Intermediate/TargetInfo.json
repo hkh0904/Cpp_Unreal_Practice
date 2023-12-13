@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "HelloUnreal",
+			"Path": "D:\\UE5Part1\\HelloUnreal\\Source\\HelloUnreal.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "HelloUnrealEditor",
+			"Path": "D:\\UE5Part1\\HelloUnreal\\Source\\HelloUnrealEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

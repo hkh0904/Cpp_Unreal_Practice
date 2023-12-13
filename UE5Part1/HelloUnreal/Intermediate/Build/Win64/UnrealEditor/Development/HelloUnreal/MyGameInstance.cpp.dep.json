@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\ue5part1\\hellounreal\\source\\hellounreal\\mygameinstance.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ue5part1\\hellounreal\\intermediate\\build\\win64\\hellounrealeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\ue5part1\\hellounreal\\intermediate\\build\\win64\\unrealeditor\\development\\hellounreal\\definitions.hellounreal.h",
+            "d:\\ue5part1\\hellounreal\\source\\hellounreal\\mygameinstance.h",
+            "d:\\ue5part1\\hellounreal\\intermediate\\build\\win64\\unrealeditor\\inc\\hellounreal\\uht\\mygameinstance.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
