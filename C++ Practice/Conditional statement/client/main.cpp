@@ -69,19 +69,97 @@ using namespace std;
 
 
 // ====================================================
+//
+//int main(void)
+//{
+//	// 반복문
+//	// (초기값, 조건, 증감)
+//
+//	int		i, j, k, l = 0;
+//
+//	for (i = 0; i < 5; ++i)
+//	{
+//		cout << i << endl;
+//	}
+//
+//	cout << "완료되었습니다." << endl;
+//
+//}
+
 
 int main(void)
 {
-	// 반복문
-	// (초기값, 조건, 증감)
-
-	int		i, j, k, l = 0;
-
-	for (i = 0; i < 5; ++i)
+	for (int i = 0; i < 3; ++i)
 	{
-		cout << i << endl;
+		for (int j = 0; j < 3; ++j)
+		{
+			cout << "출력" << endl;
+		}
 	}
 
-	cout << "완료되었습니다." << endl;
+	cout << "끝" << endl;
+
+	int		iNumX = 4;
+	int		iNumY = 2;
+
+	int		iResult = iNumX * iNumY;
+
+	for (int i = 0; i < iResult; ++i)
+	{
+		// 만나는 순간 바로 반복문 종료
+		break;
+	}
+
+	for (int i = 0; i < iNumY; ++i)
+	{
+		for (int j = 0; j < iNumX; ++j)
+		{
+			// 만나는 순간 현재의 반복을 멈추고 다음 반복으로 이어감
+			continue;
+		}
+	}
+
+	// while문
+
+	int i = 0;
+
+	//while (i < 5)
+	//{
+	//	++i; // 반복문 내에서 증감
+
+	//	if (i == 2)
+	//	{
+	//		continue;
+	//	}
+
+	//	if (i == 4)
+	//	{
+	//		break;
+	//	}
+
+	//	cout << i << endl;
+	//}
+
+	//// 게임 만들때 자주 생성하는 의도적인 무한루프
+	//while (true)
+	//{
+	//	++i;
+	//	cout << i << endl;
+
+	//	// if 유저가 종료키를 누르면?
+	//	if (i == 100)
+	//	{
+	//		break;
+	//	}
+
+	//}
+
+	// 무조건 do 내 코드 1번은 수행 후 while
+	do
+	{
+		cout << i << endl;
+		++i;
+	} while (i < 5)
+
 
 }
