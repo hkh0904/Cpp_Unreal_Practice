@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Unreal_Practice\C++ Practice\User_Defined Type\client\main.cpp(151,10): warning C4101: 'State': unreferenced local variable
+  client.vcxproj -> D:\Unreal_Practice\C++ Practice\User_Defined Type\x64\Debug\client.exe
