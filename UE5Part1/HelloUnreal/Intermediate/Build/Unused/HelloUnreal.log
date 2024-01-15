@@ -1,4 +1,0 @@
-﻿  Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" HelloUnrealEditor Win64 Development -Project="D:\UE5Part1\HelloUnreal\HelloUnreal.uproject" -WaitMutex -FromMsBuild
-  Log file: C:\Users\Administrator\AppData\Local\UnrealBuildTool\Log.txt
-  Target is up to date
-  Total execution time: 0.64 seconds
