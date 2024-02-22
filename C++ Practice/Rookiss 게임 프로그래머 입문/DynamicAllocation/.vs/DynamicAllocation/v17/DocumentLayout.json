@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GyeongHwan\\Practice\\C\u002B\u002B Practice\\DynamicAllocation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58A7F4E5-2711-4E75-8A19-C8FF3D706C97}|RPGGame\\RPGGame.vcxproj|C:\\GyeongHwan\\Practice\\C\u002B\u002B Practice\\DynamicAllocation\\RPGGame\\RPGGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{58A7F4E5-2711-4E75-8A19-C8FF3D706C97}|RPGGame\\RPGGame.vcxproj|solutionrelative:RPGGame\\RPGGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1781C64-20CF-4EC8-B955-65B70A24C848}|DynamicAllocation\\DynamicAllocation.vcxproj|C:\\GyeongHwan\\Practice\\C\u002B\u002B Practice\\DynamicAllocation\\DynamicAllocation\\DynamicAllocation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F1781C64-20CF-4EC8-B955-65B70A24C848}|DynamicAllocation\\DynamicAllocation.vcxproj|solutionrelative:DynamicAllocation\\DynamicAllocation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RPGGame.cpp",
+              "DocumentMoniker": "C:\\GyeongHwan\\Practice\\C\u002B\u002B Practice\\DynamicAllocation\\RPGGame\\RPGGame.cpp",
+              "RelativeDocumentMoniker": "RPGGame\\RPGGame.cpp",
+              "ToolTip": "C:\\GyeongHwan\\Practice\\C\u002B\u002B Practice\\DynamicAllocation\\RPGGame\\RPGGame.cpp",
+              "RelativeToolTip": "RPGGame\\RPGGame.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-22T11:24:45.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DynamicAllocation.cpp",
+              "DocumentMoniker": "C:\\GyeongHwan\\Practice\\C\u002B\u002B Practice\\DynamicAllocation\\DynamicAllocation\\DynamicAllocation.cpp",
+              "RelativeDocumentMoniker": "DynamicAllocation\\DynamicAllocation.cpp",
+              "ToolTip": "C:\\GyeongHwan\\Practice\\C\u002B\u002B Practice\\DynamicAllocation\\DynamicAllocation\\DynamicAllocation.cpp",
+              "RelativeToolTip": "DynamicAllocation\\DynamicAllocation.cpp",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-22T10:32:15.717Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
