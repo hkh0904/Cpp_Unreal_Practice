@@ -18,5 +18,11 @@
     <ClCompile Include="DynamicAllocation.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="CStyleCasting.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="VirtualDestructor.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

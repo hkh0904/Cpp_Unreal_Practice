@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\GyeongHwan\\Practice\\C\u002B\u002B Practice\\DynamicAllocation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{58A7F4E5-2711-4E75-8A19-C8FF3D706C97}|RPGGame\\RPGGame.vcxproj|C:\\GyeongHwan\\Practice\\C\u002B\u002B Practice\\DynamicAllocation\\RPGGame\\RPGGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{58A7F4E5-2711-4E75-8A19-C8FF3D706C97}|RPGGame\\RPGGame.vcxproj|solutionrelative:RPGGame\\RPGGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F1781C64-20CF-4EC8-B955-65B70A24C848}|DynamicAllocation\\DynamicAllocation.vcxproj|C:\\GyeongHwan\\Practice\\C\u002B\u002B Practice\\DynamicAllocation\\DynamicAllocation\\CStyleCasting.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F1781C64-20CF-4EC8-B955-65B70A24C848}|DynamicAllocation\\DynamicAllocation.vcxproj|solutionrelative:DynamicAllocation\\CStyleCasting.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1781C64-20CF-4EC8-B955-65B70A24C848}|DynamicAllocation\\DynamicAllocation.vcxproj|C:\\GyeongHwan\\Practice\\C\u002B\u002B Practice\\DynamicAllocation\\DynamicAllocation\\DynamicAllocation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F1781C64-20CF-4EC8-B955-65B70A24C848}|DynamicAllocation\\DynamicAllocation.vcxproj|solutionrelative:DynamicAllocation\\DynamicAllocation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F1781C64-20CF-4EC8-B955-65B70A24C848}|DynamicAllocation\\DynamicAllocation.vcxproj|C:\\GyeongHwan\\Practice\\C\u002B\u002B Practice\\DynamicAllocation\\DynamicAllocation\\VirtualDestructor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F1781C64-20CF-4EC8-B955-65B70A24C848}|DynamicAllocation\\DynamicAllocation.vcxproj|solutionrelative:DynamicAllocation\\VirtualDestructor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A7F4E5-2711-4E75-8A19-C8FF3D706C97}|RPGGame\\RPGGame.vcxproj|C:\\GyeongHwan\\Practice\\C\u002B\u002B Practice\\DynamicAllocation\\RPGGame\\Inventory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{58A7F4E5-2711-4E75-8A19-C8FF3D706C97}|RPGGame\\RPGGame.vcxproj|solutionrelative:RPGGame\\Inventory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A7F4E5-2711-4E75-8A19-C8FF3D706C97}|RPGGame\\RPGGame.vcxproj|C:\\GyeongHwan\\Practice\\C\u002B\u002B Practice\\DynamicAllocation\\RPGGame\\Inventory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{58A7F4E5-2711-4E75-8A19-C8FF3D706C97}|RPGGame\\RPGGame.vcxproj|solutionrelative:RPGGame\\Inventory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A7F4E5-2711-4E75-8A19-C8FF3D706C97}|RPGGame\\RPGGame.vcxproj|C:\\GyeongHwan\\Practice\\C\u002B\u002B Practice\\DynamicAllocation\\RPGGame\\RPGGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{58A7F4E5-2711-4E75-8A19-C8FF3D706C97}|RPGGame\\RPGGame.vcxproj|solutionrelative:RPGGame\\RPGGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +30,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Inventory.h",
+              "DocumentMoniker": "C:\\GyeongHwan\\Practice\\C\u002B\u002B Practice\\DynamicAllocation\\RPGGame\\Inventory.h",
+              "RelativeDocumentMoniker": "RPGGame\\Inventory.h",
+              "ToolTip": "C:\\GyeongHwan\\Practice\\C\u002B\u002B Practice\\DynamicAllocation\\RPGGame\\Inventory.h",
+              "RelativeToolTip": "RPGGame\\Inventory.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-02-24T07:59:12.403Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VirtualDestructor.cpp",
+              "DocumentMoniker": "C:\\GyeongHwan\\Practice\\C\u002B\u002B Practice\\DynamicAllocation\\DynamicAllocation\\VirtualDestructor.cpp",
+              "RelativeDocumentMoniker": "DynamicAllocation\\VirtualDestructor.cpp",
+              "ToolTip": "C:\\GyeongHwan\\Practice\\C\u002B\u002B Practice\\DynamicAllocation\\DynamicAllocation\\VirtualDestructor.cpp",
+              "RelativeToolTip": "DynamicAllocation\\VirtualDestructor.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-24T07:40:59.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CStyleCasting.cpp",
+              "DocumentMoniker": "C:\\GyeongHwan\\Practice\\C\u002B\u002B Practice\\DynamicAllocation\\DynamicAllocation\\CStyleCasting.cpp",
+              "RelativeDocumentMoniker": "DynamicAllocation\\CStyleCasting.cpp",
+              "ToolTip": "C:\\GyeongHwan\\Practice\\C\u002B\u002B Practice\\DynamicAllocation\\DynamicAllocation\\CStyleCasting.cpp",
+              "RelativeToolTip": "DynamicAllocation\\CStyleCasting.cpp",
+              "ViewState": "AQIAACkAAAAAAAAAAAAkwA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-24T07:40:27.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "RPGGame.cpp",
               "DocumentMoniker": "C:\\GyeongHwan\\Practice\\C\u002B\u002B Practice\\DynamicAllocation\\RPGGame\\RPGGame.cpp",
               "RelativeDocumentMoniker": "RPGGame\\RPGGame.cpp",
               "ToolTip": "C:\\GyeongHwan\\Practice\\C\u002B\u002B Practice\\DynamicAllocation\\RPGGame\\RPGGame.cpp",
               "RelativeToolTip": "RPGGame\\RPGGame.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "ViewState": "AQIAACwAAAAAAAAAAAAkwD4AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-02-22T11:24:45.963Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DynamicAllocation.cpp",
-              "DocumentMoniker": "C:\\GyeongHwan\\Practice\\C\u002B\u002B Practice\\DynamicAllocation\\DynamicAllocation\\DynamicAllocation.cpp",
-              "RelativeDocumentMoniker": "DynamicAllocation\\DynamicAllocation.cpp",
-              "ToolTip": "C:\\GyeongHwan\\Practice\\C\u002B\u002B Practice\\DynamicAllocation\\DynamicAllocation\\DynamicAllocation.cpp",
-              "RelativeToolTip": "DynamicAllocation\\DynamicAllocation.cpp",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAAAD8AAAAAAAAA",
+              "DocumentIndex": 3,
+              "Title": "Inventory.cpp",
+              "DocumentMoniker": "C:\\GyeongHwan\\Practice\\C\u002B\u002B Practice\\DynamicAllocation\\RPGGame\\Inventory.cpp",
+              "RelativeDocumentMoniker": "RPGGame\\Inventory.cpp",
+              "ToolTip": "C:\\GyeongHwan\\Practice\\C\u002B\u002B Practice\\DynamicAllocation\\RPGGame\\Inventory.cpp",
+              "RelativeToolTip": "RPGGame\\Inventory.cpp",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-02-22T10:32:15.717Z",
+              "WhenOpened": "2024-02-24T06:35:37.97Z",
               "EditorCaption": ""
             }
           ]
