@@ -1,25 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\GyeongHwan\\Practice\\C\u002B\u002B Practice\\DynamicAllocation\\",
+  "WorkspaceRootPath": "C:\\GyeongHwan\\Cpp_Unreal_Practice\\C\u002B\u002B Practice\\Rookiss \uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBA38 \uC785\uBB38\\DynamicAllocation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F1781C64-20CF-4EC8-B955-65B70A24C848}|DynamicAllocation\\DynamicAllocation.vcxproj|C:\\GyeongHwan\\Practice\\C\u002B\u002B Practice\\DynamicAllocation\\DynamicAllocation\\CStyleCasting.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{F1781C64-20CF-4EC8-B955-65B70A24C848}|DynamicAllocation\\DynamicAllocation.vcxproj|C:\\GyeongHwan\\Cpp_Unreal_Practice\\C\u002B\u002B Practice\\Rookiss \uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBA38 \uC785\uBB38\\DynamicAllocation\\DynamicAllocation\\Debugging.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F1781C64-20CF-4EC8-B955-65B70A24C848}|DynamicAllocation\\DynamicAllocation.vcxproj|solutionrelative:DynamicAllocation\\Debugging.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1781C64-20CF-4EC8-B955-65B70A24C848}|DynamicAllocation\\DynamicAllocation.vcxproj|C:\\GyeongHwan\\Cpp_Unreal_Practice\\C\u002B\u002B Practice\\Rookiss \uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBA38 \uC785\uBB38\\DynamicAllocation\\DynamicAllocation\\C\u002B\u002B Casting.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F1781C64-20CF-4EC8-B955-65B70A24C848}|DynamicAllocation\\DynamicAllocation.vcxproj|solutionrelative:DynamicAllocation\\C\u002B\u002B Casting.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1781C64-20CF-4EC8-B955-65B70A24C848}|DynamicAllocation\\DynamicAllocation.vcxproj|C:\\GyeongHwan\\Cpp_Unreal_Practice\\C\u002B\u002B Practice\\Rookiss \uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBA38 \uC785\uBB38\\DynamicAllocation\\DynamicAllocation\\Copy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F1781C64-20CF-4EC8-B955-65B70A24C848}|DynamicAllocation\\DynamicAllocation.vcxproj|solutionrelative:DynamicAllocation\\Copy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1781C64-20CF-4EC8-B955-65B70A24C848}|DynamicAllocation\\DynamicAllocation.vcxproj|C:\\GyeongHwan\\Cpp_Unreal_Practice\\C\u002B\u002B Practice\\Rookiss \uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBA38 \uC785\uBB38\\DynamicAllocation\\DynamicAllocation\\CStyleCasting.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F1781C64-20CF-4EC8-B955-65B70A24C848}|DynamicAllocation\\DynamicAllocation.vcxproj|solutionrelative:DynamicAllocation\\CStyleCasting.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1781C64-20CF-4EC8-B955-65B70A24C848}|DynamicAllocation\\DynamicAllocation.vcxproj|C:\\GyeongHwan\\Practice\\C\u002B\u002B Practice\\DynamicAllocation\\DynamicAllocation\\VirtualDestructor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{F1781C64-20CF-4EC8-B955-65B70A24C848}|DynamicAllocation\\DynamicAllocation.vcxproj|C:\\GyeongHwan\\Cpp_Unreal_Practice\\C\u002B\u002B Practice\\Rookiss \uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBA38 \uC785\uBB38\\DynamicAllocation\\DynamicAllocation\\VirtualDestructor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F1781C64-20CF-4EC8-B955-65B70A24C848}|DynamicAllocation\\DynamicAllocation.vcxproj|solutionrelative:DynamicAllocation\\VirtualDestructor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58A7F4E5-2711-4E75-8A19-C8FF3D706C97}|RPGGame\\RPGGame.vcxproj|C:\\GyeongHwan\\Practice\\C\u002B\u002B Practice\\DynamicAllocation\\RPGGame\\Inventory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{58A7F4E5-2711-4E75-8A19-C8FF3D706C97}|RPGGame\\RPGGame.vcxproj|C:\\GyeongHwan\\Cpp_Unreal_Practice\\C\u002B\u002B Practice\\Rookiss \uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBA38 \uC785\uBB38\\DynamicAllocation\\RPGGame\\Inventory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{58A7F4E5-2711-4E75-8A19-C8FF3D706C97}|RPGGame\\RPGGame.vcxproj|solutionrelative:RPGGame\\Inventory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58A7F4E5-2711-4E75-8A19-C8FF3D706C97}|RPGGame\\RPGGame.vcxproj|C:\\GyeongHwan\\Practice\\C\u002B\u002B Practice\\DynamicAllocation\\RPGGame\\Inventory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{58A7F4E5-2711-4E75-8A19-C8FF3D706C97}|RPGGame\\RPGGame.vcxproj|C:\\GyeongHwan\\Cpp_Unreal_Practice\\C\u002B\u002B Practice\\Rookiss \uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBA38 \uC785\uBB38\\DynamicAllocation\\RPGGame\\Inventory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{58A7F4E5-2711-4E75-8A19-C8FF3D706C97}|RPGGame\\RPGGame.vcxproj|solutionrelative:RPGGame\\Inventory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58A7F4E5-2711-4E75-8A19-C8FF3D706C97}|RPGGame\\RPGGame.vcxproj|C:\\GyeongHwan\\Practice\\C\u002B\u002B Practice\\DynamicAllocation\\RPGGame\\RPGGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{58A7F4E5-2711-4E75-8A19-C8FF3D706C97}|RPGGame\\RPGGame.vcxproj|C:\\GyeongHwan\\Cpp_Unreal_Practice\\C\u002B\u002B Practice\\Rookiss \uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBA38 \uC785\uBB38\\DynamicAllocation\\RPGGame\\RPGGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{58A7F4E5-2711-4E75-8A19-C8FF3D706C97}|RPGGame\\RPGGame.vcxproj|solutionrelative:RPGGame\\RPGGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -30,73 +42,108 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Inventory.h",
-              "DocumentMoniker": "C:\\GyeongHwan\\Practice\\C\u002B\u002B Practice\\DynamicAllocation\\RPGGame\\Inventory.h",
+              "DocumentMoniker": "C:\\GyeongHwan\\Cpp_Unreal_Practice\\C\u002B\u002B Practice\\Rookiss \uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBA38 \uC785\uBB38\\DynamicAllocation\\RPGGame\\Inventory.h",
               "RelativeDocumentMoniker": "RPGGame\\Inventory.h",
-              "ToolTip": "C:\\GyeongHwan\\Practice\\C\u002B\u002B Practice\\DynamicAllocation\\RPGGame\\Inventory.h",
+              "ToolTip": "C:\\GyeongHwan\\Cpp_Unreal_Practice\\C\u002B\u002B Practice\\Rookiss \uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBA38 \uC785\uBB38\\DynamicAllocation\\RPGGame\\Inventory.h",
               "RelativeToolTip": "RPGGame\\Inventory.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-02-24T07:59:12.403Z",
-              "IsPinned": true,
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Debugging.cpp",
+              "DocumentMoniker": "C:\\GyeongHwan\\Cpp_Unreal_Practice\\C\u002B\u002B Practice\\Rookiss \uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBA38 \uC785\uBB38\\DynamicAllocation\\DynamicAllocation\\Debugging.cpp",
+              "RelativeDocumentMoniker": "DynamicAllocation\\Debugging.cpp",
+              "ToolTip": "C:\\GyeongHwan\\Cpp_Unreal_Practice\\C\u002B\u002B Practice\\Rookiss \uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBA38 \uC785\uBB38\\DynamicAllocation\\DynamicAllocation\\Debugging.cpp",
+              "RelativeToolTip": "DynamicAllocation\\Debugging.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-25T07:12:10.901Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "VirtualDestructor.cpp",
-              "DocumentMoniker": "C:\\GyeongHwan\\Practice\\C\u002B\u002B Practice\\DynamicAllocation\\DynamicAllocation\\VirtualDestructor.cpp",
-              "RelativeDocumentMoniker": "DynamicAllocation\\VirtualDestructor.cpp",
-              "ToolTip": "C:\\GyeongHwan\\Practice\\C\u002B\u002B Practice\\DynamicAllocation\\DynamicAllocation\\VirtualDestructor.cpp",
-              "RelativeToolTip": "DynamicAllocation\\VirtualDestructor.cpp",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAOAAAA",
+              "Title": "C\u002B\u002B Casting.cpp",
+              "DocumentMoniker": "C:\\GyeongHwan\\Cpp_Unreal_Practice\\C\u002B\u002B Practice\\Rookiss \uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBA38 \uC785\uBB38\\DynamicAllocation\\DynamicAllocation\\C\u002B\u002B Casting.cpp",
+              "RelativeDocumentMoniker": "DynamicAllocation\\C\u002B\u002B Casting.cpp",
+              "ToolTip": "C:\\GyeongHwan\\Cpp_Unreal_Practice\\C\u002B\u002B Practice\\Rookiss \uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBA38 \uC785\uBB38\\DynamicAllocation\\DynamicAllocation\\C\u002B\u002B Casting.cpp",
+              "RelativeToolTip": "DynamicAllocation\\C\u002B\u002B Casting.cpp",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAUAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-02-24T07:40:59.78Z",
+              "WhenOpened": "2024-02-25T06:32:19.737Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Copy.cpp",
+              "DocumentMoniker": "C:\\GyeongHwan\\Cpp_Unreal_Practice\\C\u002B\u002B Practice\\Rookiss \uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBA38 \uC785\uBB38\\DynamicAllocation\\DynamicAllocation\\Copy.cpp",
+              "RelativeDocumentMoniker": "DynamicAllocation\\Copy.cpp",
+              "ToolTip": "C:\\GyeongHwan\\Cpp_Unreal_Practice\\C\u002B\u002B Practice\\Rookiss \uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBA38 \uC785\uBB38\\DynamicAllocation\\DynamicAllocation\\Copy.cpp",
+              "RelativeToolTip": "DynamicAllocation\\Copy.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-25T06:11:17.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VirtualDestructor.cpp",
+              "DocumentMoniker": "C:\\GyeongHwan\\Cpp_Unreal_Practice\\C\u002B\u002B Practice\\Rookiss \uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBA38 \uC785\uBB38\\DynamicAllocation\\DynamicAllocation\\VirtualDestructor.cpp",
+              "RelativeDocumentMoniker": "DynamicAllocation\\VirtualDestructor.cpp",
+              "ToolTip": "C:\\GyeongHwan\\Cpp_Unreal_Practice\\C\u002B\u002B Practice\\Rookiss \uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBA38 \uC785\uBB38\\DynamicAllocation\\DynamicAllocation\\VirtualDestructor.cpp",
+              "RelativeToolTip": "DynamicAllocation\\VirtualDestructor.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-24T07:40:59.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "CStyleCasting.cpp",
-              "DocumentMoniker": "C:\\GyeongHwan\\Practice\\C\u002B\u002B Practice\\DynamicAllocation\\DynamicAllocation\\CStyleCasting.cpp",
+              "DocumentMoniker": "C:\\GyeongHwan\\Cpp_Unreal_Practice\\C\u002B\u002B Practice\\Rookiss \uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBA38 \uC785\uBB38\\DynamicAllocation\\DynamicAllocation\\CStyleCasting.cpp",
               "RelativeDocumentMoniker": "DynamicAllocation\\CStyleCasting.cpp",
-              "ToolTip": "C:\\GyeongHwan\\Practice\\C\u002B\u002B Practice\\DynamicAllocation\\DynamicAllocation\\CStyleCasting.cpp",
+              "ToolTip": "C:\\GyeongHwan\\Cpp_Unreal_Practice\\C\u002B\u002B Practice\\Rookiss \uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBA38 \uC785\uBB38\\DynamicAllocation\\DynamicAllocation\\CStyleCasting.cpp",
               "RelativeToolTip": "DynamicAllocation\\CStyleCasting.cpp",
-              "ViewState": "AQIAACkAAAAAAAAAAAAkwA8AAAAJAAAA",
+              "ViewState": "AQIAABcAAAAAAAAAAAAkwA8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-02-24T07:40:27.508Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "RPGGame.cpp",
-              "DocumentMoniker": "C:\\GyeongHwan\\Practice\\C\u002B\u002B Practice\\DynamicAllocation\\RPGGame\\RPGGame.cpp",
+              "DocumentMoniker": "C:\\GyeongHwan\\Cpp_Unreal_Practice\\C\u002B\u002B Practice\\Rookiss \uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBA38 \uC785\uBB38\\DynamicAllocation\\RPGGame\\RPGGame.cpp",
               "RelativeDocumentMoniker": "RPGGame\\RPGGame.cpp",
-              "ToolTip": "C:\\GyeongHwan\\Practice\\C\u002B\u002B Practice\\DynamicAllocation\\RPGGame\\RPGGame.cpp",
+              "ToolTip": "C:\\GyeongHwan\\Cpp_Unreal_Practice\\C\u002B\u002B Practice\\Rookiss \uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBA38 \uC785\uBB38\\DynamicAllocation\\RPGGame\\RPGGame.cpp",
               "RelativeToolTip": "RPGGame\\RPGGame.cpp",
               "ViewState": "AQIAACwAAAAAAAAAAAAkwD4AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-02-22T11:24:45.963Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-22T11:24:45.963Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Inventory.cpp",
-              "DocumentMoniker": "C:\\GyeongHwan\\Practice\\C\u002B\u002B Practice\\DynamicAllocation\\RPGGame\\Inventory.cpp",
+              "DocumentMoniker": "C:\\GyeongHwan\\Cpp_Unreal_Practice\\C\u002B\u002B Practice\\Rookiss \uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBA38 \uC785\uBB38\\DynamicAllocation\\RPGGame\\Inventory.cpp",
               "RelativeDocumentMoniker": "RPGGame\\Inventory.cpp",
-              "ToolTip": "C:\\GyeongHwan\\Practice\\C\u002B\u002B Practice\\DynamicAllocation\\RPGGame\\Inventory.cpp",
+              "ToolTip": "C:\\GyeongHwan\\Cpp_Unreal_Practice\\C\u002B\u002B Practice\\Rookiss \uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBA38 \uC785\uBB38\\DynamicAllocation\\RPGGame\\Inventory.cpp",
               "RelativeToolTip": "RPGGame\\Inventory.cpp",
               "ViewState": "AQIAADAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-02-24T06:35:37.97Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-24T06:35:37.97Z"
             }
           ]
         }
