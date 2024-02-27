@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="DataSturcture">
+      <UniqueIdentifier>{76f4019a-226c-458d-bee6-ba30c1404606}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Main">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Maze.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="List.cpp">
+      <Filter>DataSturcture</Filter>
+    </ClCompile>
+    <ClCompile Include="Array.cpp">
+      <Filter>DataSturcture</Filter>
+    </ClCompile>
+    <ClCompile Include="Vector.cpp">
+      <Filter>DataSturcture</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="List.h">
+      <Filter>DataSturcture</Filter>
+    </ClInclude>
+    <ClInclude Include="Array.h">
+      <Filter>DataSturcture</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector.h">
+      <Filter>DataSturcture</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

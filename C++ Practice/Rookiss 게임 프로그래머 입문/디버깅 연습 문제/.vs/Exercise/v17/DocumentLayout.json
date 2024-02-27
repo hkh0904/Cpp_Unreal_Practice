@@ -1,18 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\GyeongHwan\\Cpp_Unreal_Practice\\C\u002B\u002B Practice\\Rookiss \uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBA38 \uC785\uBB38\\\uB514\uBC84\uAE45 \uC5F0\uC2B5 \uBB38\uC81C\\",
+  "WorkspaceRootPath": "C:\\GyeongHwan\\Practice\\C\u002B\u002B Practice\\\uB514\uBC84\uAE45 \uC5F0\uC2B5 \uBB38\uC81C\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0000ADBE-8D6A-4B76-9FC5-90522BC9E3D2}|Exercise_6\\Exercise_6.vcxproj|C:\\GyeongHwan\\Cpp_Unreal_Practice\\C\u002B\u002B Practice\\Rookiss \uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBA38 \uC785\uBB38\\\uB514\uBC84\uAE45 \uC5F0\uC2B5 \uBB38\uC81C\\Exercise_6\\Knight.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0000ADBE-8D6A-4B76-9FC5-90522BC9E3D2}|Exercise_6\\Exercise_6.vcxproj|solutionrelative:Exercise_6\\Knight.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{8EA65996-E594-46D6-8EAD-7FC7ED84BF4E}|Exercise_10\\Exercise_10.vcxproj|C:\\GyeongHwan\\Practice\\C\u002B\u002B Practice\\\uB514\uBC84\uAE45 \uC5F0\uC2B5 \uBB38\uC81C\\Exercise_10\\Exercise_A.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8EA65996-E594-46D6-8EAD-7FC7ED84BF4E}|Exercise_10\\Exercise_10.vcxproj|solutionrelative:Exercise_10\\Exercise_A.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0000ADBE-8D6A-4B76-9FC5-90522BC9E3D2}|Exercise_6\\Exercise_6.vcxproj|C:\\GyeongHwan\\Cpp_Unreal_Practice\\C\u002B\u002B Practice\\Rookiss \uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBA38 \uC785\uBB38\\\uB514\uBC84\uAE45 \uC5F0\uC2B5 \uBB38\uC81C\\Exercise_6\\Exercise_6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0000ADBE-8D6A-4B76-9FC5-90522BC9E3D2}|Exercise_6\\Exercise_6.vcxproj|solutionrelative:Exercise_6\\Exercise_6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{8EA65996-E594-46D6-8EAD-7FC7ED84BF4E}|Exercise_10\\Exercise_10.vcxproj|C:\\GyeongHwan\\Practice\\C\u002B\u002B Practice\\\uB514\uBC84\uAE45 \uC5F0\uC2B5 \uBB38\uC81C\\Exercise_10\\Arrow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8EA65996-E594-46D6-8EAD-7FC7ED84BF4E}|Exercise_10\\Exercise_10.vcxproj|solutionrelative:Exercise_10\\Arrow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0000ADBE-8D6A-4B76-9FC5-90522BC9E3D2}|Exercise_6\\Exercise_6.vcxproj|C:\\GyeongHwan\\Cpp_Unreal_Practice\\C\u002B\u002B Practice\\Rookiss \uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBA38 \uC785\uBB38\\\uB514\uBC84\uAE45 \uC5F0\uC2B5 \uBB38\uC81C\\Exercise_6\\Knight.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0000ADBE-8D6A-4B76-9FC5-90522BC9E3D2}|Exercise_6\\Exercise_6.vcxproj|solutionrelative:Exercise_6\\Knight.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{8EA65996-E594-46D6-8EAD-7FC7ED84BF4E}|Exercise_10\\Exercise_10.vcxproj|C:\\GyeongHwan\\Practice\\C\u002B\u002B Practice\\\uB514\uBC84\uAE45 \uC5F0\uC2B5 \uBB38\uC81C\\Exercise_10\\Arrow.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8EA65996-E594-46D6-8EAD-7FC7ED84BF4E}|Exercise_10\\Exercise_10.vcxproj|solutionrelative:Exercise_10\\Arrow.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA65996-E594-46D6-8EAD-7FC7ED84BF4E}|Exercise_10\\Exercise_10.vcxproj|C:\\GyeongHwan\\Practice\\C\u002B\u002B Practice\\\uB514\uBC84\uAE45 \uC5F0\uC2B5 \uBB38\uC81C\\Exercise_10\\Archer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8EA65996-E594-46D6-8EAD-7FC7ED84BF4E}|Exercise_10\\Exercise_10.vcxproj|solutionrelative:Exercise_10\\Archer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA65996-E594-46D6-8EAD-7FC7ED84BF4E}|Exercise_10\\Exercise_10.vcxproj|C:\\GyeongHwan\\Practice\\C\u002B\u002B Practice\\\uB514\uBC84\uAE45 \uC5F0\uC2B5 \uBB38\uC81C\\Exercise_10\\Archer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8EA65996-E594-46D6-8EAD-7FC7ED84BF4E}|Exercise_10\\Exercise_10.vcxproj|solutionrelative:Exercise_10\\Archer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,27 +35,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Knight.h",
-              "DocumentMoniker": "C:\\GyeongHwan\\Cpp_Unreal_Practice\\C\u002B\u002B Practice\\Rookiss \uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBA38 \uC785\uBB38\\\uB514\uBC84\uAE45 \uC5F0\uC2B5 \uBB38\uC81C\\Exercise_6\\Knight.h",
-              "RelativeDocumentMoniker": "Exercise_6\\Knight.h",
-              "ToolTip": "C:\\GyeongHwan\\Cpp_Unreal_Practice\\C\u002B\u002B Practice\\Rookiss \uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBA38 \uC785\uBB38\\\uB514\uBC84\uAE45 \uC5F0\uC2B5 \uBB38\uC81C\\Exercise_6\\Knight.h",
-              "RelativeToolTip": "Exercise_6\\Knight.h",
+              "Title": "Arrow.h",
+              "DocumentMoniker": "C:\\GyeongHwan\\Practice\\C\u002B\u002B Practice\\\uB514\uBC84\uAE45 \uC5F0\uC2B5 \uBB38\uC81C\\Exercise_10\\Arrow.h",
+              "RelativeDocumentMoniker": "Exercise_10\\Arrow.h",
+              "ToolTip": "C:\\GyeongHwan\\Practice\\C\u002B\u002B Practice\\\uB514\uBC84\uAE45 \uC5F0\uC2B5 \uBB38\uC81C\\Exercise_10\\Arrow.h",
+              "RelativeToolTip": "Exercise_10\\Arrow.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-02-25T08:30:43.299Z",
+              "WhenOpened": "2024-02-27T04:37:55.945Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Knight.cpp",
-              "DocumentMoniker": "C:\\GyeongHwan\\Cpp_Unreal_Practice\\C\u002B\u002B Practice\\Rookiss \uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBA38 \uC785\uBB38\\\uB514\uBC84\uAE45 \uC5F0\uC2B5 \uBB38\uC81C\\Exercise_6\\Knight.cpp",
-              "RelativeDocumentMoniker": "Exercise_6\\Knight.cpp",
-              "ToolTip": "C:\\GyeongHwan\\Cpp_Unreal_Practice\\C\u002B\u002B Practice\\Rookiss \uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBA38 \uC785\uBB38\\\uB514\uBC84\uAE45 \uC5F0\uC2B5 \uBB38\uC81C\\Exercise_6\\Knight.cpp",
-              "RelativeToolTip": "Exercise_6\\Knight.cpp",
-              "ViewState": "AQIAACwAAAAAAAAAAAAWwDsAAAAMAAAA",
+              "DocumentIndex": 1,
+              "Title": "Arrow.cpp",
+              "DocumentMoniker": "C:\\GyeongHwan\\Practice\\C\u002B\u002B Practice\\\uB514\uBC84\uAE45 \uC5F0\uC2B5 \uBB38\uC81C\\Exercise_10\\Arrow.cpp",
+              "RelativeDocumentMoniker": "Exercise_10\\Arrow.cpp",
+              "ToolTip": "C:\\GyeongHwan\\Practice\\C\u002B\u002B Practice\\\uB514\uBC84\uAE45 \uC5F0\uC2B5 \uBB38\uC81C\\Exercise_10\\Arrow.cpp",
+              "RelativeToolTip": "Exercise_10\\Arrow.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-02-25T08:30:42.884Z",
+              "WhenOpened": "2024-02-27T04:35:10.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Archer.cpp",
+              "DocumentMoniker": "C:\\GyeongHwan\\Practice\\C\u002B\u002B Practice\\\uB514\uBC84\uAE45 \uC5F0\uC2B5 \uBB38\uC81C\\Exercise_10\\Archer.cpp",
+              "RelativeDocumentMoniker": "Exercise_10\\Archer.cpp",
+              "ToolTip": "C:\\GyeongHwan\\Practice\\C\u002B\u002B Practice\\\uB514\uBC84\uAE45 \uC5F0\uC2B5 \uBB38\uC81C\\Exercise_10\\Archer.cpp",
+              "RelativeToolTip": "Exercise_10\\Archer.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-27T04:34:54.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Archer.h",
+              "DocumentMoniker": "C:\\GyeongHwan\\Practice\\C\u002B\u002B Practice\\\uB514\uBC84\uAE45 \uC5F0\uC2B5 \uBB38\uC81C\\Exercise_10\\Archer.h",
+              "RelativeDocumentMoniker": "Exercise_10\\Archer.h",
+              "ToolTip": "C:\\GyeongHwan\\Practice\\C\u002B\u002B Practice\\\uB514\uBC84\uAE45 \uC5F0\uC2B5 \uBB38\uC81C\\Exercise_10\\Archer.h",
+              "RelativeToolTip": "Exercise_10\\Archer.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-02-27T04:34:54.282Z",
               "EditorCaption": ""
             }
           ]
@@ -58,15 +92,15 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Exercise_6.cpp",
-              "DocumentMoniker": "C:\\GyeongHwan\\Cpp_Unreal_Practice\\C\u002B\u002B Practice\\Rookiss \uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBA38 \uC785\uBB38\\\uB514\uBC84\uAE45 \uC5F0\uC2B5 \uBB38\uC81C\\Exercise_6\\Exercise_6.cpp",
-              "RelativeDocumentMoniker": "Exercise_6\\Exercise_6.cpp",
-              "ToolTip": "C:\\GyeongHwan\\Cpp_Unreal_Practice\\C\u002B\u002B Practice\\Rookiss \uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBA38 \uC785\uBB38\\\uB514\uBC84\uAE45 \uC5F0\uC2B5 \uBB38\uC81C\\Exercise_6\\Exercise_6.cpp",
-              "RelativeToolTip": "Exercise_6\\Exercise_6.cpp",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAWwAwAAAASAAAA",
+              "DocumentIndex": 0,
+              "Title": "Exercise_A.cpp",
+              "DocumentMoniker": "C:\\GyeongHwan\\Practice\\C\u002B\u002B Practice\\\uB514\uBC84\uAE45 \uC5F0\uC2B5 \uBB38\uC81C\\Exercise_10\\Exercise_A.cpp",
+              "RelativeDocumentMoniker": "Exercise_10\\Exercise_A.cpp",
+              "ToolTip": "C:\\GyeongHwan\\Practice\\C\u002B\u002B Practice\\\uB514\uBC84\uAE45 \uC5F0\uC2B5 \uBB38\uC81C\\Exercise_10\\Exercise_A.cpp",
+              "RelativeToolTip": "Exercise_10\\Exercise_A.cpp",
+              "ViewState": "AQIAACIAAAAAAAAAAAAIwEMAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-02-25T08:30:42.456Z",
+              "WhenOpened": "2024-02-27T04:34:16.749Z",
               "EditorCaption": ""
             }
           ]

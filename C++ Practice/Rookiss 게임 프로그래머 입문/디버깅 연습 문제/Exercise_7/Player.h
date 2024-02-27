@@ -8,7 +8,8 @@ public:
 	Player();
 	Player(int hp);
 
-	~Player();
+	// 부모 클래스는 소멸자에 virtual필요
+	virtual ~Player();
 
 	void PrintInfo();
 

@@ -37,20 +37,33 @@ int main()
 	}
 
 	for (int i = 0; i < 10; i++)
+	// 문제 = 화살을 미리 10개뽑아놓고 기사주소를 담아놔서
+	// 기사가 화살을 맞아 죽고 기사 자신을 nullptr로 초기화하더라도
+	// 이미 화살에 저장된 주소값은 null이되는 것이 아님 
+	// 엉뚱한 곳을 가리키고 있다.
 	{
 		arrows[i]->AttackTarget();
 
 		// 기사가 죽었으면 소멸시켜준다
-		if (knight != nullptr)
-		{
-			if (knight->IsDead())
-			{
-				delete knight;
-				knight = nullptr;
-			}
-		}	
+		// 화살을 다 쏜 후 기사를 null로 초기화한다
+		//if (knight != nullptr)
+		//{
+		//	if (knight->IsDead())
+		//	{
+		//		delete knight;
+		//		knight = nullptr;
+		//	}
+		//}	
 
 		delete arrows[i];
 		arrows[i] = nullptr;
+	}
+	if (knight != nullptr)
+	{
+		if (knight->IsDead())
+		{
+			delete knight;
+			knight = nullptr;
+		}
 	}
 }

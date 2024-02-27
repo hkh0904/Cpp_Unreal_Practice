@@ -25,5 +25,7 @@ void Archer::AddHp(int value)
 	if (IsDead())
 	{
 		delete _pet;
+		// 삭제하면 nullptr로 초기화해주는 습관들이기
+		_pet = nullptr;
 	}
 }

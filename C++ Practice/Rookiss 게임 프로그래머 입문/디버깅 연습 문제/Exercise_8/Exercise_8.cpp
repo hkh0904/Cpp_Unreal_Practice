@@ -36,10 +36,11 @@ int main()
 			{
 				// 여기서 같이 만들어준다
 				// 이런 저런 펫 정보 추가될 예정
-				Pet pet;
+				// new로 새 펫을 줘야 이미 지워진 펫을 삭제하려다 크래시나지 않는다
+				Pet* pet = new Pet();
 
 				// Archer를 만들 때 pet 정보도 넘겨준다
-				p = new Archer(&pet);
+				p = new Archer(pet);
 				p->_hp = 100;
 				p->_attack = 100;
 
