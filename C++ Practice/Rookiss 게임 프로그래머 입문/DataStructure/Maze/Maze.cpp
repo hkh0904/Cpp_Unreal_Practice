@@ -1,23 +1,33 @@
-﻿#include <iostream>
-// #include "List.h"
-#include "Array.h"
+﻿#include "pch.h"
 #include "Vector.h"
+#include "Board.h"
+#include "Player.h"
+
+Board board;
+Player player;
 
 int main()
 {
-	// 동적배열(배열) vs 연결리스트
-	// 대부분은 동적배열 사용 -> 빠름
-	// 연결리스트를 활용하는 경우
+	::srand(static_cast<uint32>(time(nullptr)));
 
-	// [					zone					]
-	// 대기열인데 중간의 누군가가 빠질 수 있어야할때
-	// [일감][일감][일감]<->[일감]<->[일감][일감][일감]
+	board.Init(25, &player);
+	player.Init(&board);
 
-	Vector v;
+	uint64 lastTick = 0;
+	while (true)
+	{
+#pragma region 프레임 관리
+		// 시간을 재는 용도
+		const uint64 currentTick = ::GetTickCount64();
+		const uint64 deltaTick = currentTick - lastTick;
+		lastTick = currentTick;
+#pragma endregion
+		// 입력
 
-	v.push_back(1);
-	v.push_back(2);
-	v.push_back(3);
+		// 로직
+		player.Update(deltaTick);
 
-	int a = v[1];
+		// 렌더링
+		board.Render();
+	}
 }

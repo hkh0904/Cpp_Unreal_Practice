@@ -22,9 +22,6 @@ int main()
 	Node* n4 = new Node(4);
 	Node* n5 = new Node(5);
 
-	// [head]			[tail]
-	// [1]->[2]->[3]->[4]->[5]	( 단방향 연결리스트 )
-	// [1]<->[2]<->[3]<->[4]<->[5] ( 양방향 연결리스트 )
 	n1->next = n2;
 	n2->prev = n1;
 	n2->next = n3;

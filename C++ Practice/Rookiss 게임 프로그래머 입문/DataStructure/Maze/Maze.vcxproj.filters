@@ -8,6 +8,9 @@
       <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
       <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
     </Filter>
+    <Filter Include="Board">
+      <UniqueIdentifier>{9aa7c19d-ea5f-4edc-a899-9c4eaf50ce3a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Maze.cpp">
@@ -22,6 +25,24 @@
     <ClCompile Include="Vector.cpp">
       <Filter>DataSturcture</Filter>
     </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="Board.cpp">
+      <Filter>Board</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Board</Filter>
+    </ClCompile>
+    <ClCompile Include="ConsoleHelper.cpp">
+      <Filter>Board</Filter>
+    </ClCompile>
+    <ClCompile Include="Queue.cpp">
+      <Filter>DataSturcture</Filter>
+    </ClCompile>
+    <ClCompile Include="Stack.cpp">
+      <Filter>DataSturcture</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="List.h">
@@ -31,6 +52,27 @@
       <Filter>DataSturcture</Filter>
     </ClInclude>
     <ClInclude Include="Vector.h">
+      <Filter>DataSturcture</Filter>
+    </ClInclude>
+    <ClInclude Include="Types.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="Board.h">
+      <Filter>Board</Filter>
+    </ClInclude>
+    <ClInclude Include="ConsoleHelper.h">
+      <Filter>Board</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Board</Filter>
+    </ClInclude>
+    <ClInclude Include="Queue.h">
+      <Filter>DataSturcture</Filter>
+    </ClInclude>
+    <ClInclude Include="Stack.h">
       <Filter>DataSturcture</Filter>
     </ClInclude>
   </ItemGroup>

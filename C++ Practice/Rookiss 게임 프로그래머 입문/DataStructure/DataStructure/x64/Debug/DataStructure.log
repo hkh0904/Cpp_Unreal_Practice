@@ -1,0 +1,3 @@
+﻿  Template.cpp
+C:\GyeongHwan\Practice\C++ Practice\DataStructure\DataStructure\Template.cpp(65,19): warning C4101: 'rb2' :참조되지 않은 지역 변수입니다.
+  DataStructure.vcxproj -> C:\GyeongHwan\Practice\C++ Practice\DataStructure\x64\Debug\DataStructure.exe

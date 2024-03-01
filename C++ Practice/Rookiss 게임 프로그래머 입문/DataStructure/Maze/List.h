@@ -2,12 +2,9 @@
 #include <iostream>
 using namespace std;
 
-// LinkedList 연결리스트
-
+template<typename T>
 class Node
 {
-	// typedef int T;  <- 옛날문법
-	using T = int;
 public:
 	Node(int data) : data(data), prev(nullptr), next(nullptr) { }
 
@@ -17,35 +14,32 @@ public:
 	Node*	next;
 };
 
+template<typename T>
 class List
 {
 public:
 	List()
 	{
-		_head = new Node(0);
-		_tail = new Node(0);
+		_head = new Node<T>(0);
+		_tail = new Node<T>(0);
 		_head->next = _tail;
 		_tail->prev = _head;
 	}
 
 	~List()
 	{
-		Node* node = _head;
+		Node<T>* node = _head;
 		while (node)
 		{
-			Node* deleteNode = node;
-			// 다음 노드로 넘어감
-			// Node* nextNode = node->next;랑 동일
+			Node<T>* deleteNode = node;
 			node = node->next;
 			delete deleteNode;
 		}
 	}
 
-	// [dummy]<->[1]<->[2]<->[3]<->[dummy] 더미노드 활용
-	// [head]						[tail]
-	Node* GetNode(int index)
+	Node<T>* GetNode(int index)
 	{
-		Node* node = _head->next;
+		Node<T>* node = _head->next;
 		if (node == _tail)
 			return nullptr;
 		
@@ -62,7 +56,7 @@ public:
 
 	void Print()
 	{
-		Node* node = _head->next;
+		Node<T>* node = _head->next;
 		while (node != _tail)
 		{
 			cout << node->data << " ";
@@ -71,10 +65,10 @@ public:
 		cout << endl;
 	}
 
-	Node* AddAtHead(int data)
+	Node<T>* AddAtHead(int data)
 	{
-		Node* node = new Node(data);
-		Node* nextNode = _head->next;
+		Node<T>* node = new Node<T>(data);
+		Node<T>* nextNode = _head->next;
 
 		nextNode->prev = node;
 		node->next = nextNode;
@@ -84,10 +78,10 @@ public:
 		return node;
 	}
 
-	Node* AddAtTail(int data)
+	Node<T>* AddAtTail(int data)
 	{
-		Node* node = new Node(data);
-		Node* prevNode = _tail->prev;
+		Node<T>* node = new Node<T>(data);
+		Node<T>* prevNode = _tail->prev;
 
 		prevNode->next = node;
 		node->prev = prevNode;
@@ -97,10 +91,10 @@ public:
 		return node;
 	}
 
-	Node* Insert(Node* posNode, int data)
+	Node<T>* Insert(Node<T>* posNode, int data)
 	{
-		Node* node = new Node(data);
-		Node* prevNode = posNode->prev;
+		Node<T>* node = new Node<T>(data);
+		Node<T>* prevNode = posNode->prev;
 
 		prevNode->next = node;
 		node->prev = prevNode;
@@ -110,10 +104,10 @@ public:
 		return node;
 	}
 
-	Node* Remove(Node* node)
+	Node<T>* Remove(Node<T>* node)
 	{
-		Node* prevNode = node->prev;
-		Node* nextNode = node->next;
+		Node<T>* prevNode = node->prev;
+		Node<T>* nextNode = node->next;
 
 		prevNode->next = nextNode;
 		nextNode->prev = prevNode;
@@ -125,8 +119,8 @@ public:
 	}
 
 private:
-	Node* _head = nullptr;
-	Node* _tail = nullptr;
+	Node<T>* _head = nullptr;
+	Node<T>* _tail = nullptr;
 
 	 
 };
