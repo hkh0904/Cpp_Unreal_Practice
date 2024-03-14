@@ -1,0 +1,15 @@
+﻿  pch.cpp
+  DevScene.cpp
+  Game.cpp
+  GameScene.cpp
+  InputManager.cpp
+  Scene.cpp
+  SceneManager.cpp
+  TimeManager.cpp
+  Utils.cpp
+  WindowsAPI.cpp
+C:\Unreal_Practice\C++ Practice\WindowsAPI\WindowsAPI\WindowsAPI.cpp(110,1): warning C4002: 함수 같은 매크로 호출 'CreateWindowW'에 대해 인수가 너무 많습니다.
+  (소스 파일 '/WindowsAPI.cpp'을(를) 컴파일하는 중)
+  
+  코드를 생성하고 있습니다...
+  WindowsAPI.vcxproj -> C:\Unreal_Practice\C++ Practice\WindowsAPI\x64\Debug\WindowsAPI.exe
